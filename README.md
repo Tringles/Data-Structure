@@ -9,5 +9,5 @@
 + Heap - priority queue
 + BST - Binary Search Tree
 + Graph
-++ DFS
-++ BFS
+  + DFS
+  + BFS
