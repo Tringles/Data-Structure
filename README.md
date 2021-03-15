@@ -1,6 +1,6 @@
 # Data-Structure
 
-### 2021 - First Semester Data Structure 정기교육
+### Inha University 2021 - First Semester Data Structure C++ code
 
 + Linked List
 + Stack
