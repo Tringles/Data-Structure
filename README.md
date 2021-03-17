@@ -8,6 +8,7 @@
 + Tree
 + Heap - priority queue
 + BST - Binary Search Tree
++ Hashing
 + Graph
   + DFS
   + BFS
